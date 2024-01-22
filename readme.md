@@ -6,3 +6,4 @@ Forma studiów: Stacjonarne
 Kierunek: Informatyka stosowana
 Grupa: 2
 Student: Jan Majorkiewicz
+/////
